@@ -1,6 +1,6 @@
-"""
-@author: https://github.com/DianaNtz
-"""
+"""The code below was written by @author: https://github.com/DianaNtz and is a fourth order Runge Kutta implementation. 
+It solves in particular the equation of hydrostatic equilibrium for a spherical symmetric star with polytropic equation of state 
+and compares it with the analytical solution for polytropic index n=1."""
 import numpy as np
 import matplotlib.pyplot as plt
 dr=100 #in m
