@@ -1,6 +1,6 @@
-"""
-@author: https://github.com/DianaNtz
-"""
+"""The code below was written by @author: https://github.com/DianaNtz and is a fourth order Runge Kutta implementation. 
+It calculates in particular the pressure radius relation of a spherical symmetric Newtonian star with constant density 
+and compares it with its analytical solution."""
 import numpy as np
 import matplotlib.pyplot as plt
 dr=100 #in m
